@@ -1,0 +1,8 @@
+{
+  "liveServer.settings.port": 5502,
+  "editor.autoClosingBrackets": "always",
+  "editor.autoClosingDelete": "always",
+  "editor.autoClosingOvertype": "always",
+  "editor.autoClosingQuotes": "always",
+  "auto-close-tag.insertSpaceBeforeSelfClosingTag": true
+}
